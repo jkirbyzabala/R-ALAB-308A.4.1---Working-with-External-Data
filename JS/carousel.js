@@ -1,4 +1,4 @@
-import * as bootstrap from "bootstrap";
+import * as bootstrap from "../node_modules/bootstrap/dist/js/bootstrap.bundle.js";
 import { favourite } from "./index.js";
 
 export function createCarouselItem(imgSrc, imgAlt, imgId) {
